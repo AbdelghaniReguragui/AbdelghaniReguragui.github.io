@@ -39,7 +39,7 @@ function Home2() {
               and also in areas related to building applications with
               <b className="purple">
                 {" "}
-                <i>DDD Architecture and microservices</i>
+                <i>DDD approach and microservices architecture</i>
               </b>
               <br />
               <br />
